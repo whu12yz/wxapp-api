@@ -1,0 +1,4 @@
+--require test/setup
+--recursive
+--colors
+--growl
