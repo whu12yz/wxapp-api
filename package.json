@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha ./test/unit/**.spec.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whu12yz/wxapp-api.git"
+  },
   "keywords": [
     "小程序",
     "客服消息",
